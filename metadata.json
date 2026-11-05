@@ -1,0 +1,7 @@
+{
+  "name": "DAYBOOK - Personal Expense Tracker",
+  "description": "A minimalist, editorial Java desktop application for personal income and expense tracking with SQLite and Swing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
